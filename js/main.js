@@ -41,7 +41,6 @@ btnNext.addEventListener("click", function(){
         }
     
         currentSlide++;
-
     }
 });
 
